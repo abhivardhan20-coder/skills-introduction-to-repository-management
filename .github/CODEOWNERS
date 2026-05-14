@@ -1,1 +1,11 @@
+# Global owner
+* @yourusername
 
+# HTML pages
+*.html @teacher1
+
+# CSS files
+*.css @teacher2
+
+# JavaScript
+*.js @teacher3
