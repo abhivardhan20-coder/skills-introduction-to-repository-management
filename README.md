@@ -1,16 +1,12 @@
-# Introduction to Repository Management
+## Collaboration Process
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+- Create feature branches for changes
+- Open pull requests for review
+- Do not push directly to main
+- Resolve review comments before merging
 
-Hey abhivardhan20-coder!
+## Repository Roles
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/abhivardhan20-coder/skills-introduction-to-repository-management/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+- Frontend maintainers manage UI files
+- Backend maintainers manage server logic
+- Teachers review extracurricular content
